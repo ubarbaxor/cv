@@ -2,7 +2,7 @@
   "basics": {
     "name": "Antoine Barbaroux",
     "label": "Software Engineer",
-    "picture": "https://epsilon.sh/drops/pp.nft.png",
+    "picture": "https://epsilon.sh/drops/pp.nft.png.nope",
     "email": "ubarbaxor@gmail.com",
     "phone": "(+358) 44 756 9980",
     "summary": "Pragmatic, polyvalent and caring.I have a keen eye for details and appreciate open collaboration and communication.",
@@ -35,14 +35,8 @@
 
       "highlights": [
         "Quantitative finance",
-        "Node.js",
-        "React",
         "In-memory database",
         "Distributed system",
-        "MongoDB",
-        "Redis",
-        "Docker",
-        "CI/CD",
         "bare-metal",
         "self-hosted"
       ]

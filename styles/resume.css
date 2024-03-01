@@ -19,9 +19,21 @@
         --contact-bg-color: rgba(221, 221, 221, 0.8);
     }
 }
+
+@media (max-width: 480px) {
+    #info-picture {
+        display: none;
+    }
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: 'Courier New', monospace;
-    margin: 0 1em;
+    margin: 0;
     padding: 0;
     background-color: var(--main-bg-color);
     color: var(--text-color);
@@ -49,12 +61,12 @@ a:hover {
     text-decoration: underline;
 }
 
-#info-picture {
-    float: right;
-}
-
 #contact {
     width: 50%;
+}
+
+#info-picture {
+    float: right;
 }
 
 .contact {
@@ -62,7 +74,8 @@ a:hover {
     padding: 10px;
 }
 .container {
-    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
 .deadlink {
