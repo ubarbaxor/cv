@@ -2,7 +2,7 @@
   "basics": {
     "name": "Antoine Barbaroux",
     "label": "Software Engineer",
-    "picture": "https://epsilon.sh/drops/pp.nft.png.nope",
+    "picture": "https://epsilon.sh/drops/pp.nft.png",
     "email": "ubarbaxor@gmail.com",
     "phone": "(+358) 44 756 9980",
     "summary": "Pragmatic, polyvalent and caring.I have a keen eye for details and appreciate open collaboration and communication.",
@@ -32,7 +32,6 @@
       "position": "Quantitative finance research and development",
       "startDate": "2023-02",
       "summary": "Project Remora :\nIn early 2023, I associated with a crypto-currency derivatives trader to build a next-generation fulfilment engine.\nHe would become a friend, and the first client to use the micro-platform that came out of it.",
-
       "highlights": [
         "Quantitative finance",
         "In-memory database",
