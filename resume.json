@@ -3,7 +3,7 @@
     "name": "Antoine Barbaroux",
     "label": "Software Engineer",
     "picture": "https://epsilon.sh/drops/pp.nft.png",
-    "email": "ubarbaxor@gmail.com",
+    "email": "antoine@epsilon.sh",
     "phone": "(+358) 44 756 9980",
     "summary": "Pragmatic, polyvalent and caring.I have a keen eye for details and appreciate open collaboration and communication.",
     "location": {
@@ -14,11 +14,6 @@
       "region": "Suomi / Finland"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "ubarbaxor",
-        "url": "https://twitter.com/ubarbaxor"
-      },
       {
         "network": "Github",
         "username": "ubarbaxor",
@@ -167,21 +162,6 @@
         "Gunicorn",
         "Linux",
         "System administration"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Les Irréductibles",
-      "position": "Volunteer Companion",
-      "website": "https://www.facebook.com/Les-Irr%C3%A9ductibles-Briand-115762461814202/",
-      "startDate": "2016-07-01",
-      "endDate": "2016-07-15",
-      "summary": "In 2016, I had the privilege of accompanying the youth choir that sang the National Anthem on National Day",
-      "highlights": [
-        "Formal",
-        "Group logistics",
-        "Met the president"
       ]
     }
   ],
@@ -359,6 +339,25 @@
     {
       "name": "Spanish",
       "level": "Proficient"
+    },
+    {
+      "name": "Finnish",
+      "level": "Basic"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Les Irréductibles",
+      "position": "Volunteer Companion",
+      "website": "https://www.facebook.com/Les-Irr%C3%A9ductibles-Briand-115762461814202/",
+      "startDate": "2016-07-01",
+      "endDate": "2016-07-15",
+      "summary": "In 2016, I had the privilege of accompanying the youth choir that sang the National Anthem on National Day",
+      "highlights": [
+        "Formal",
+        "Group logistics",
+        "Met the president"
+      ]
     }
   ],
   "interests": [
@@ -374,7 +373,8 @@
       "name": "Technical hobbies",
       "keywords": [
         "3D Printing",
-        "Automotive Mechanics"
+        "Automotive Mechanics",
+        "Electronics"
       ]
     },
     {
