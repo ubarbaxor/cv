@@ -3,8 +3,14 @@ import renderPicture from './src/picture.mjs'
 
 import data from './resume.json' assert { type: 'json' }
 
-const sections = Object.keys(data)
-const renderer = document.getElementById('main')
+const renderCv = data => {
+    const sections = Object.keys(data)
+    const renderer = document.getElementById('main')
+
+    sections.forEach(s => {
+        renderer.appendChild(renderSection(data[s], s))
+    })
+}
 
 const renderSection = (data, name) => {
     if (renderers[name])
@@ -262,6 +268,4 @@ const renderers = {
     interests: renderInterests,
 }
 
-sections.forEach(s => {
-    renderer.appendChild(renderSection(data[s], s))
-})
+renderCv(data)
